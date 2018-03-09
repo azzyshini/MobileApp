@@ -1,0 +1,23 @@
+To browse books: Please open the app and then tap the button labeled, "Catalogue"
+To log in: Please open the app and then tap the button labeled, "Login" 
+To view account details: Please log in.
+To checkout and reserve books: Please log in, then select the book you would like to checkout
+			       or reserve, and then tap the corresponding button. Reserving
+			       the book will be the button labeled, "Hold"
+To view map of library: Please open the app and click the button labeled, "Library"
+To view the facebook page: Please open the app and click the button labeled, "Facebook" 
+
+Login information for testing: 
+Students:
+	Username: gotjams 
+	Password: bangtan7
+
+	Username: musclepig 
+	Password: bangtan7
+
+Teachers: 
+	Username: pinkmon
+	Password: bangtan7
+
+	Username: worldwidehandsome
+	Password: bangtan7
